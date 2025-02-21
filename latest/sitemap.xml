@@ -1,91 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>http://mageddo.github.io/dns-proxy-server/latest/1-getting-started/</loc>
-  </url>
-  
-  <url>
-    <loc>http://mageddo.github.io/dns-proxy-server/latest/1-getting-started/running-it/</loc>
-  </url>
-  
-  <url>
-    <loc>http://mageddo.github.io/dns-proxy-server/latest/2-features/</loc>
-  </url>
-  
-  <url>
-    <loc>http://mageddo.github.io/dns-proxy-server/latest/2-features/gui/</loc>
-  </url>
-  
-  <url>
-    <loc>http://mageddo.github.io/dns-proxy-server/latest/2-features/installing-as-service/</loc>
-  </url>
-  
-  <url>
-    <loc>http://mageddo.github.io/dns-proxy-server/latest/1-getting-started/requirements/</loc>
-  </url>
-  
-  <url>
-    <loc>http://mageddo.github.io/dns-proxy-server/latest/3-configuration/</loc>
-  </url>
-  
-  <url>
-    <loc>http://mageddo.github.io/dns-proxy-server/latest/2-features/solving-hostnames-wildcard/</loc>
-  </url>
-  
-  <url>
-    <loc>http://mageddo.github.io/dns-proxy-server/latest/4-compiling/</loc>
-  </url>
-  
-  <url>
-    <loc>http://mageddo.github.io/dns-proxy-server/latest/2-features/logs/</loc>
-  </url>
-  
-  <url>
-    <loc>http://mageddo.github.io/dns-proxy-server/latest/5-developing/</loc>
-  </url>
-  
-  <url>
-    <loc>http://mageddo.github.io/dns-proxy-server/latest/6-generating-docs/</loc>
-  </url>
-  
-  <url>
-    <loc>http://mageddo.github.io/dns-proxy-server/latest/2-features/solving-host-machine-ip/</loc>
-  </url>
-  
-  <url>
-    <loc>http://mageddo.github.io/dns-proxy-server/latest/2-features/accessing-container-by-name/</loc>
-  </url>
-  
-  <url>
-    <loc>http://mageddo.github.io/dns-proxy-server/latest/7-versions/</loc>
-  </url>
-  
-  <url>
-    <loc>http://mageddo.github.io/dns-proxy-server/latest/2-features/specify-from-which-network-solve-container/</loc>
-  </url>
-  
-  <url>
-    <loc>http://mageddo.github.io/dns-proxy-server/latest/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://mageddo.github.io/dns-proxy-server/latest/credits/</loc>
-  </url>
-  
-  <url>
-    <loc>http://mageddo.github.io/dns-proxy-server/latest/</loc>
-  </url>
-  
-  <url>
-    <loc>http://mageddo.github.io/dns-proxy-server/latest/showcase/</loc>
-  </url>
-  
-  <url>
-    <loc>http://mageddo.github.io/dns-proxy-server/latest/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	
+	<sitemap>
+	   	<loc>http://mageddo.github.io/dns-proxy-server/latest/en/sitemap.xml</loc>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>http://mageddo.github.io/dns-proxy-server/latest/pt-br/sitemap.xml</loc>
+		
+	</sitemap>
+	
+</sitemapindex>
